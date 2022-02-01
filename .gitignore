@@ -1,2 +1,4 @@
 Session.vim
 doc/tags
+# ignore commit message
+.gitcommit
